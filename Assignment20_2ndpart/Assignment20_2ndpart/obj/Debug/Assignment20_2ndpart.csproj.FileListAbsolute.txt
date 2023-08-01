@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\bin\Debug\Assignment20_2ndpart.exe.config
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\bin\Debug\Assignment20_2ndpart.exe
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\bin\Debug\Assignment20_2ndpart.pdb
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\bin\Debug\Assignment20Final.dll
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\bin\Debug\Assignment20Final.pdb
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\obj\Debug\Assignment20_2ndpart.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\obj\Debug\Assignment20_2ndpart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\obj\Debug\Assignment20_2ndpart.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\obj\Debug\Assignment20_2ndpart.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\obj\Debug\Assignment20_2ndpart.exe
+C:\Users\Lenovo\source\repos\Assignment20_2ndpart\Assignment20_2ndpart\obj\Debug\Assignment20_2ndpart.pdb

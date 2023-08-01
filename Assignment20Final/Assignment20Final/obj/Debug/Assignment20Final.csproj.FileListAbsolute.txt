@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\Assignment20Final\Assignment20Final\bin\Debug\Assignment20Final.dll
+C:\Users\Lenovo\source\repos\Assignment20Final\Assignment20Final\bin\Debug\Assignment20Final.pdb
+C:\Users\Lenovo\source\repos\Assignment20Final\Assignment20Final\obj\Debug\Assignment20Final.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment20Final\Assignment20Final\obj\Debug\Assignment20Final.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment20Final\Assignment20Final\obj\Debug\Assignment20Final.dll
+C:\Users\Lenovo\source\repos\Assignment20Final\Assignment20Final\obj\Debug\Assignment20Final.pdb
